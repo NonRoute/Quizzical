@@ -64,6 +64,10 @@ body {
   outline: none;
 }
 
+.question > hr {
+  border: 0.8px solid #DBDEF0;
+}
+
 .check-answer {
   background-color: #4D5B9E;
   border: none;
