@@ -2,7 +2,7 @@
 Scrimba React Section 4 Solo Project <br/>
 <img width="500" src="/index1.png"/> <br/>
 <img width="500" src="/index2.png"/> <br/>
-You can view the site [here](Nonroute.github.io/Quizzical/).<br/>
+You can view the site at [here](https://nonroute.github.io/Quizzical/) <br/>
 
 # Getting Started with Create React App
 
