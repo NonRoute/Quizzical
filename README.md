@@ -1,3 +1,9 @@
+# Quizzical
+Scrimba React Section 4 Solo Project <br/>
+<img width="500" src="/index1.png"/> <br/>
+<img width="500" src="/index2.png"/> <br/>
+You can view the site [here](Nonroute.github.io/Quizzical/).<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
